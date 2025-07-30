@@ -12,7 +12,7 @@ A simple command-line Python app that fetches real-time weather data from OpenWe
 
 ### Prerequisites
 - Python 3.x
-- OpenWeatherMap API key (get one from https://openweathermap.org/api)
+- WetherAPI key (get one from (https://www.weatherapi.com))
 
 ### Installation
 ```bash
