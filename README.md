@@ -21,3 +21,17 @@ git clone https://github.com/yourusername/weathercli.git
 cd weathercli
 pip install -r requirements.txt
 python weather.py
+
+```
+## 📸 Example Output
+
+When you run the script and enter the city name Dhaka, you might see something like this:
+
+> Weather in Dhaka, Bangladesh: Temperature: 30.2°C / 86.4°F. Condition: Partly cloudy.
+
+
+## 🛠 Tech Stack
+```
+- Python 3  
+- `requests` library  
+- [WeatherAPI.com](https://www.weatherapi.com/) for weather data
